@@ -1,0 +1,2 @@
+# Customer-Behavior-Analysis-and-Segmentation-for-Targeted-Marketing
+This project performs customer segmentation on credit card usage data using K-Means clustering. By analyzing spending patterns and behaviors, we identified four distinct customer groups. This segmentation provides valuable insights for targeted marketing strategies, personalized customer experiences, and informed business decisions.
